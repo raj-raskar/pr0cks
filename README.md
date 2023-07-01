@@ -1,3 +1,4 @@
+`This repo has been archived.`
 ## Install 
 ```
 go install github.com/n1nj4sec/pr0cks@latest
